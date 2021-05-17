@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichalSir
-- 👀 I’m interested in programming, ML, AI, games, sport (football), data analysis 
+- 👀 I’m interested in programming, ML, AI, games, sport (football), data analysis and music (mostly hip-hop)
 - 🌱 I’m currently learning at Wojskowa Akademia Techniczna in Warsaw, Poland. 
 
 
